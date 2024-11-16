@@ -30,6 +30,9 @@ curl http://localhost:11434
 In browser: http://localhost:3000 
 ```
 
+## Building RAG locally with ollama
+- https://medium.com/@vndee.huynh/build-your-own-rag-and-run-it-locally-langchain-ollama-streamlit-181d42805895
+
 
 Refer the blog for more details - [https://medium.com/@srpillai/how-to-run-ollama-locally-on-gpu-with-docker-a1ebabe451e0](https://medium.com/@srpillai/how-to-run-ollama-locally-on-gpu-with-docker-a1ebabe451e0)
 ## References
